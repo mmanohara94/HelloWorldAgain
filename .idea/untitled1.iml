@@ -5,7 +5,9 @@
       <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/my_matrix_operation/my_matrix_operation.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/my_matrix_operation/asdf.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/my_matrix_operation/my_matrix_operation.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/my_matrix_operation/asdf.h" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
